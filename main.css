@@ -1,0 +1,21 @@
+h1 {
+    color:limegreen;
+}
+header p {
+    background-color: red;
+    color: white;
+}
+figure {
+    width: 600px;
+    border: 3px solid black;
+    padding: 5px;
+}
+img {
+    width:100%;
+}
+article {
+    width :800px;
+}
+body {
+    font-family: Verdana;
+}
